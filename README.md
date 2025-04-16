@@ -18,7 +18,7 @@
 ### 1. Clone dự án hoặc tạo file mới
 
 ```bash
-git clone https://github.com/tenban/chatbot-openrouter-streamlit.git
+git clone https://github.com/KT246/chatbot-openrouter-streamlit.git
 cd chatbot-openrouter-streamlit 
 ```` 
 ---

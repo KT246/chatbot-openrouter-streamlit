@@ -1,4 +1,4 @@
-# 🤖 Chatbot UI với OpenRouter và Streamlit
+# 🤖 Chatbot UI với OpenRouter và Streamlit by Khamtay
 
 Đây là một ứng dụng chatbot đơn giản sử dụng mô hình AI qua [OpenRouter](https://openrouter.ai) và được xây dựng bằng Python với [Streamlit](https://streamlit.io).
 
